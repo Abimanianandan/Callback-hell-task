@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://img.freepik.com/premium-vector/abstract-indian-independence-day-flag-background_1035-16814.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+}
+span{
+    display: flex;
+    justify-content: center;
+    margin: 400px;
+}
